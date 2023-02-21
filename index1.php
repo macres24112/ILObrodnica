@@ -347,7 +347,7 @@ ks. Paweł Lewandowski
 			<div align="center">
 			<h2>
         <h5>Kontakt</h5>
-		<p>
+		
 		<div align="center"><h6>
         <p>Jeśli masz pytania dotyczące naszej szkoły lub chcesz się z nami skontaktować, wypełnij poniższy formularz. <br> Odpowiemy na Twoje pytanie tak szybko, jak to będzie możliwe.</p>
 <form action="mailto:maciej.reszka2018@gmail.com" method="post" enctype="text/plain">
@@ -373,7 +373,7 @@ ks. Paweł Lewandowski
 
 
 Poland<br>
-	</p>
+	
 	
 
 	</div>
